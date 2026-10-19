@@ -1,0 +1,97 @@
+{
+ "generatedAt": "2026-10-19T12:47:00Z",
+ "deals": [
+  {
+   "category": "TV",
+   "currency": "HUF",
+   "discountPct": 20,
+   "foundOn": "2026-10-19",
+   "highlight": false,
+   "lastSeen": "2026-10-19",
+   "note": "Mini LED TV 104 000 Ft kedvezménnyel; a régi árat nem tudtam ellenőrizni.",
+   "oldPrice": 519900,
+   "price": 415900,
+   "store": "Euronics",
+   "suspicious": false,
+   "title": "TCL 65C7L 65\" SQD-Mini LED 4K UHD Smart TV",
+   "url": "https://euronics.hu/mini-led-tv/tcl-65c7l-65-sqd-mini-led-4k-uhd-smart-tv-p330475",
+   "validUntil": "okt. 21.",
+   "id": "euronics-tcl-65c7l"
+  },
+  {
+   "category": "TV",
+   "currency": "HUF",
+   "discountPct": 20,
+   "foundOn": "2026-10-19",
+   "highlight": false,
+   "lastSeen": "2026-10-19",
+   "note": "85 colos 2026-os TV 110 000 Ft kedvezménnyel a heti ajánlatban; a régi árat nem tudtam ellenőrizni.",
+   "oldPrice": 549900,
+   "price": 439900,
+   "store": "Euronics",
+   "suspicious": false,
+   "title": "TCL 85A400 85\" 4K UHD Smart QLED TV",
+   "url": "https://euronics.hu/qled-tv/tcl-85a400-85-4k-uhd-smart-qled-televizio-p330498",
+   "validUntil": "okt. 21.",
+   "id": "euronics-tcl-85a400"
+  },
+  {
+   "category": "Háztartás",
+   "currency": "HUF",
+   "discountPct": 20,
+   "foundOn": "2026-10-19",
+   "highlight": false,
+   "lastSeen": "2026-10-19",
+   "note": "Fekete, fehér és bézs színben is ugyanennyi az ára.",
+   "oldPrice": 169900,
+   "price": 135900,
+   "store": "Euronics",
+   "suspicious": false,
+   "title": "Whirlpool WOI4S8HM1SXA beépíthető sütő (inox)",
+   "url": "https://euronics.hu/beepitheto-suto/whirlpool-woi4s8hm1sxa-beepitheto-suto-p331364",
+   "validUntil": "okt. 21.",
+   "id": "euronics-whirlpool-woi4s8hm1sxa"
+  },
+  {
+   "category": "Edzőgép",
+   "currency": "EUR",
+   "discountPct": 18,
+   "foundOn": "2026-10-19",
+   "highlight": true,
+   "lastSeen": "2026-10-19",
+   "note": "Őszi akció az EU-s Speediance shopban, 756 € kedvezmény; a 20%-os küszöb alatt, a Black Friday ár még jobb lehet.",
+   "oldPrice": 4199,
+   "price": 3443,
+   "store": "Speediance",
+   "suspicious": false,
+   "title": "Speediance Gym Monster 2",
+   "url": "https://eu.speediance.com/collections/home-gym/products/speediance-gym-monster-2",
+   "validUntil": "",
+   "id": "speediance-gym-monster-2"
+  }
+ ],
+ "runs": [
+  {
+   "campaigns": [
+    {
+     "store": "eMAG",
+     "text": "Black Friday Magyarország: 2026. november 13. (péntek), egynapos"
+    },
+    {
+     "store": "Euronics",
+     "text": "Black November szavazás és nyereményjáték indult (dátum még nincs megadva)"
+    }
+   ],
+   "date": "2026-10-19",
+   "dealCount": 4,
+   "summary": "Ma 4 deal: Gym Monster 2 -18%, két TCL TV és egy Whirlpool sütő -20% az Euronicsnál, és az eMAG Black Fridayje november 13-án lesz.",
+   "time": "14:36",
+   "id": "2026-10-19"
+  }
+ ],
+ "status": {
+  "state": "idle",
+  "total": 22,
+  "done": 0
+ }
+}
